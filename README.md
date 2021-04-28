@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: https://twitter.com/gayankur
+- 📫 How to reach me: https://gayanvoice.medium.com/
 <!--
 **gayanvoice/gayanvoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

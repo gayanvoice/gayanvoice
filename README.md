@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+[![Image of https://github.com/gayanvoice/insights](https://github.com/gayanvoice/insights/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/insights)
+
 - 📫 How to reach me: https://gayanvoice.medium.com/
+
+
+
 <!--
 **gayanvoice/gayanvoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

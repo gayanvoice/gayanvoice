@@ -1,5 +1,6 @@
 ### Hi there 👋 
 [![Image of https://github.com/gayanvoice/my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter)
+[Follow @gayanvoice](https://x.com/gayanvoice)
 
 # Internet of Things (IoT) & Digital Twin (DT) Integration using Azure cloud (from npj Digital Medicine) [Share on Twitter](https://twitter.com/share?text=A%20health%20digital%20twin%20framework%20for%20discrete%20event%20simulation%20based%20optimised%20critical%20care%20workflows.&url=https%3A%2F%2Fdoi.org%2F10.1038%2Fs41746-025-01738-4&hashtags=digitaltwins)
 
